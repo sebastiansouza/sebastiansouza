@@ -1,26 +1,27 @@
-<h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/sebastiansouza"><i>Sebastian Souza</i></a> 😃️</h1>
- <p align="center">Estudo Desenvolvimento Java FullStack na <a href="https://www.jdevtreinamento.com.br/"><i>JDev Treinamento!</i></a> 
+  <div>
+     <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/sebastiansouza"><i>Sebastian Souza</i></a> 😃️</h1>
+     <p align="center">Estudo Desenvolvimento Java FullStack na <a href="https://www.jdevtreinamento.com.br/"><i>JDev Treinamento!</i></a> 
+     <p align="center">Já se inscreve aí e vem codar comigo, seja bem vindo!! Vlw mesmo! 😉️</h2>
  
   
-<div align="center">
-  <a href="https://github.com/sebastiansouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastiansouza&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansouza&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  
-</div>
-  <div style="display: inline_block"><br>
-
-  <img align="center" alt="SEBA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SEBA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Seba-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="SEBA-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="SEBA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="SEBA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     
-    
-</div>
+  <div align="center">
+     <a href="https://github.com/sebastiansouza">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastiansouza&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiansouza&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  </div>
+ 
+  <div align="center" valign="top"><br>
+       <img align="center" alt="Seba-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+       <img align="center" alt="SEBA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+       <img align="center" alt="SEBA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+       <img align="center" alt="Seba-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+       <img align="center" alt="SEBA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+       <img align="center" alt="SEBA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+       <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+       <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  </div>
                                
-</div>
   
   ##
 
@@ -47,3 +48,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
+ ##
+ 
+<div align="center">
+  
+  ![Snake animation](https://github.com/sebastiansouza/sebastiansouza/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+ 
+ <div align="center">
+  <p>Feito com :heart: e JavaScript.</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
+</div>
