@@ -1,6 +1,7 @@
   <div>
-     <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/sebastiansouza"><i>Sebastian Souza</i></a> 😃️</h1>
-     <p align="center">Estudo Desenvolvimento Java FullStack na <a href="https://www.jdevtreinamento.com.br/"><i>JDev Treinamento!</i></a> 
+     <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/sebastiansouza29/"><i>Sebastian Souza</i></a> 😃️</h1>
+     <p align="center">Estudo Desenvolvimento Ciências da Computação na <a href="https://faculdade.grancursosonline.com.br/"><i>Gran Faculdade</i></a> 
+        <p align="center">Estudo Desenvolvimento Análise e Desenvolvimento de Sistemas na <a href="https://www.faculdadevincit.edu.br/cursos-graduacao"><i>Faculdade Vincit</i></a> 
      <p align="center">Já se inscreve aí e vem codar comigo, seja bem vindo!! Vlw mesmo! 😉️</h2>
  
   
@@ -15,6 +16,7 @@
        <img align="center" alt="SEBA-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
        <img align="center" alt="SEBA-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Seba-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+       <img align="center" alt="Seba-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   
        <img align="center" alt="SEBA-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
        <img align="center" alt="SEBA-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
        <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
