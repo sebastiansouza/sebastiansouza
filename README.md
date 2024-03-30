@@ -55,7 +55,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   
-  ![Snake animation](https://github.com/sebastiansouza/sebastiansouza/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/sebastiansouza/sebastiansouza/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
