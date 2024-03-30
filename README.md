@@ -1,8 +1,8 @@
   <div>
      <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/sebastiansouza29/"><i>Sebastian Souza</i></a> 😃️</h1>
      <p align="center">Estudo Desenvolvimento Ciências da Computação na <a href="https://faculdade.grancursosonline.com.br/"><i>Gran Faculdade</i></a> 
-        <p align="center">Estudo Desenvolvimento Análise e Desenvolvimento de Sistemas na <a href="https://www.faculdadevincit.edu.br/cursos-graduacao"><i>Faculdade Vincit</i></a> 
-     <p align="center">Já se inscreve aí e vem codar comigo, seja bem vindo!! Vlw mesmo! 😉️</h2>
+        <p align="center">Por favor acesso meu portfólio: <a href="http://sebastiansouza.cloud"><i>Clique aqui</i></a> 
+     <p align="center">Seja bem vindo!! Vlw mesmo! 😉️</h2>
  
   
   <div align="center">
@@ -52,13 +52,13 @@ Here are some ideas to get you started:
 -->
  
  ##
- 
+ <!--
 <div align="center">
   
  ![Snake animation](https://github.com/sebastiansouza/sebastiansouza/blob/output/github-contribution-grid-snake.svg)
   
 </div>
- 
+ -->
  <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
