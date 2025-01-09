@@ -1,6 +1,6 @@
   <div>
      <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/sebastiansouza29/"><i>Sebastian Souza</i></a> 😃️</h1>
-     <p align="center">Estudo Desenvolvimento Ciências da Computação na <a href="https://faculdade.grancursosonline.com.br/"><i>Gran Faculdade</i></a> 
+     <p align="center">Estudo Ciências da Computação na <a href="https://faculdade.grancursosonline.com.br/"><i>Gran Faculdade</i></a> 
         <p align="center">Por favor acesse meu portfólio: <a href="http://sebastiansouza.cloud"><i>Clique aqui</i></a> 
      <p align="center">Seja bem vindo!! Vlw mesmo! 😉️</h2>
  
